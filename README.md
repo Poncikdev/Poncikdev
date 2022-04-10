@@ -5,8 +5,8 @@ Hey Selam! Ben Poncik. Yaklaşık 6-7 aydır yazılımla uğraşıyorum. Tonny S
 ``Aşağıda Bildiğim ve Kullandığım Yazılım Dilleri Varıdr.``
 ### Bildiğim Yazılım Dilleri :
 
-NodeJS
+NodeJS ,
 C# , C++
-Python
-JavaScript
+Python ,
+JavaScript ,
 HTML , CSS
