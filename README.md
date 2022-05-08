@@ -13,3 +13,4 @@ HTML , CSS
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=PoncikDev&show_icons=true) 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/775408685202538506?hideDiscrim=true)](https://discord.com/users/239330400223232000)
