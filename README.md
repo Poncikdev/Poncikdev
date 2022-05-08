@@ -12,6 +12,6 @@ JavaScript ,
 HTML , CSS
 
 
-<p>&nbsp;<img align="right" width="70%" src="https://github-readme-stats.vercel.app/api?username=PoncikDev&theme=dark&show_icons=true&locale=en" alt="PoncikDev"  ></p>
+<p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=PoncikDev&theme=dark&show_icons=true&locale=en" alt="PoncikDev"  ></p>
 
-<p><img align="right" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=PoncikDev&theme=dark&show_icons=true&locale=en&layout=compact" alt="PoncikDev" /></p>
+<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=PoncikDev&theme=dark&show_icons=true&locale=en&layout=compact" alt="PoncikDev" /></p>
