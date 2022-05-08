@@ -10,3 +10,6 @@ C# , C++
 Python ,
 JavaScript ,
 HTML , CSS
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=PoncikDev&show_icons=true) 
